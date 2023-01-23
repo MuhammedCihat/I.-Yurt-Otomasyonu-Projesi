@@ -1,0 +1,200 @@
+C:\Users\user\Desktop\projedeneme1\projedeneme1\bin\Debug\projedeneme1.exe
+C:\Users\user\Desktop\projedeneme1\projedeneme1\bin\Debug\projedeneme1.pdb
+C:\Users\user\Desktop\projedeneme1\projedeneme1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.Form1.resources
+C:\Users\user\Desktop\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.Properties.Resources.resources
+C:\Users\user\Desktop\projedeneme1\projedeneme1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user\Desktop\projedeneme1\projedeneme1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user\Desktop\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.exe
+C:\Users\user\Desktop\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.pdb
+C:\Users\user\Desktop\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.Form2.resources
+C:\Users\user\Desktop\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.Form3.resources
+C:\Users\asus\Desktop\proje (yurt otomasyonu)\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.exe
+C:\Users\asus\Desktop\proje (yurt otomasyonu)\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.pdb
+C:\Users\asus\Desktop\proje (yurt otomasyonu)\projedeneme1\projedeneme1\bin\Debug\projedeneme1.exe
+C:\Users\asus\Desktop\proje (yurt otomasyonu)\projedeneme1\projedeneme1\bin\Debug\projedeneme1.pdb
+C:\Users\asus\Desktop\proje (yurt otomasyonu)\projedeneme1\projedeneme1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\asus\Desktop\proje (yurt otomasyonu)\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.Form1.resources
+C:\Users\asus\Desktop\proje (yurt otomasyonu)\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.Form2.resources
+C:\Users\asus\Desktop\proje (yurt otomasyonu)\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.Form3.resources
+C:\Users\asus\Desktop\proje (yurt otomasyonu)\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.Properties.Resources.resources
+C:\Users\asus\Desktop\proje (yurt otomasyonu)\projedeneme1\projedeneme1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\asus\Desktop\proje (yurt otomasyonu)\projedeneme1\projedeneme1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\asus\Desktop\proje (yurt otomasyonu)\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.Form4.resources
+C:\Users\asus\Desktop\proje (yurt otomasyonu)\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.FormOgrenciKayit.resources
+C:\Users\asus\Desktop\proje (yurt otomasyonu)\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.FormFotoCek.resources
+C:\Users\asus\Desktop\proje (yurt otomasyonu)\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.FormOgrenciAra.resources
+C:\Users\asus\Desktop\proje (yurt otomasyonu)\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.FormOgrBilgileri.resources
+C:\Users\asus\Desktop\proje (yurt otomasyonu)\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.FormYonetimSifreDegisim.resources
+E:\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.exe
+E:\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.pdb
+C:\Users\user\Desktop\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.Form4.resources
+C:\Users\user\Desktop\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.FormFotoCek.resources
+C:\Users\user\Desktop\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.FormOgrBilgileri.resources
+C:\Users\user\Desktop\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.FormOgrenciAra.resources
+C:\Users\user\Desktop\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.FormOgrenciKayit.resources
+C:\Users\user\Desktop\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.FormYonetimSifreDegisim.resources
+C:\Users\ARZU\Desktop\bizim proje (yurt otomasyonu)\orta_hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.exe
+C:\Users\ARZU\Desktop\bizim proje (yurt otomasyonu)\orta_hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.pdb
+C:\Users\ARZU\Desktop\bizim proje (yurt otomasyonu)\orta_hali\projedeneme1\projedeneme1\bin\Debug\projedeneme1.exe
+C:\Users\ARZU\Desktop\bizim proje (yurt otomasyonu)\orta_hali\projedeneme1\projedeneme1\bin\Debug\projedeneme1.pdb
+C:\Users\ARZU\Desktop\bizim proje (yurt otomasyonu)\orta_hali\projedeneme1\projedeneme1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ARZU\Desktop\bizim proje (yurt otomasyonu)\orta_hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.Form1.resources
+C:\Users\ARZU\Desktop\bizim proje (yurt otomasyonu)\orta_hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.Form2.resources
+C:\Users\ARZU\Desktop\bizim proje (yurt otomasyonu)\orta_hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.Form3.resources
+C:\Users\ARZU\Desktop\bizim proje (yurt otomasyonu)\orta_hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.Form4.resources
+C:\Users\ARZU\Desktop\bizim proje (yurt otomasyonu)\orta_hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.FormFotoCek.resources
+C:\Users\ARZU\Desktop\bizim proje (yurt otomasyonu)\orta_hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.FormOgrBilgileri.resources
+C:\Users\ARZU\Desktop\bizim proje (yurt otomasyonu)\orta_hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.FormOgrenciAra.resources
+C:\Users\ARZU\Desktop\bizim proje (yurt otomasyonu)\orta_hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.FormOgrenciKayit.resources
+C:\Users\ARZU\Desktop\bizim proje (yurt otomasyonu)\orta_hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.FormYonetimSifreDegisim.resources
+C:\Users\ARZU\Desktop\bizim proje (yurt otomasyonu)\orta_hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.Properties.Resources.resources
+C:\Users\ARZU\Desktop\bizim proje (yurt otomasyonu)\orta_hali\projedeneme1\projedeneme1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ARZU\Desktop\bizim proje (yurt otomasyonu)\orta_hali\projedeneme1\projedeneme1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\asus\Desktop\bizim proje (yurt otomasyonu)\orta_hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.exe
+C:\Users\asus\Desktop\bizim proje (yurt otomasyonu)\orta_hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.pdb
+C:\Users\asus\Desktop\bizim proje (yurt otomasyonu)\orta_hali\projedeneme1\projedeneme1\bin\Debug\projedeneme1.exe
+C:\Users\asus\Desktop\bizim proje (yurt otomasyonu)\orta_hali\projedeneme1\projedeneme1\bin\Debug\projedeneme1.pdb
+C:\Users\asus\Desktop\bizim proje (yurt otomasyonu)\orta_hali\projedeneme1\projedeneme1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\asus\Desktop\bizim proje (yurt otomasyonu)\orta_hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.Form1.resources
+C:\Users\asus\Desktop\bizim proje (yurt otomasyonu)\orta_hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.Form2.resources
+C:\Users\asus\Desktop\bizim proje (yurt otomasyonu)\orta_hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.Form3.resources
+C:\Users\asus\Desktop\bizim proje (yurt otomasyonu)\orta_hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.Form4.resources
+C:\Users\asus\Desktop\bizim proje (yurt otomasyonu)\orta_hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.FormFotoCek.resources
+C:\Users\asus\Desktop\bizim proje (yurt otomasyonu)\orta_hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.FormOgrBilgileri.resources
+C:\Users\asus\Desktop\bizim proje (yurt otomasyonu)\orta_hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.FormOgrenciAra.resources
+C:\Users\asus\Desktop\bizim proje (yurt otomasyonu)\orta_hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.FormOgrenciKayit.resources
+C:\Users\asus\Desktop\bizim proje (yurt otomasyonu)\orta_hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.FormYonetimSifreDegisim.resources
+C:\Users\asus\Desktop\bizim proje (yurt otomasyonu)\orta_hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.Properties.Resources.resources
+C:\Users\asus\Desktop\bizim proje (yurt otomasyonu)\orta_hali\projedeneme1\projedeneme1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\asus\Desktop\bizim proje (yurt otomasyonu)\orta_hali\projedeneme1\projedeneme1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\asus\Desktop\bizim proje (yurt otomasyonu)\orta_hali\projedeneme1\projedeneme1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\asus\Desktop\bizim proje (yurt otomasyonu)\orta_hali\projedeneme1\projedeneme1\bin\Debug\WebCam_Capture.dll
+C:\Users\asus\Desktop\bizim proje (yurt otomasyonu)\orta_hali\projedeneme1\projedeneme1\bin\Debug\WebCam_Capture.pdb
+C:\Users\asus\Desktop\bizim proje (yurt otomasyonu)\orta_hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.FormPersonelSifreDegisim.resources
+C:\Users\asus\Desktop\bizim proje (yurt otomasyonu)\orta_hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.FormYataklar.resources
+C:\Users\asus\Desktop\bizim proje (yurt otomasyonu)\orta_hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.FormPersonelKayit.resources
+C:\Users\asus\Desktop\bizim proje (yurt otomasyonu)\orta_hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.FormPersonelListele.resources
+C:\Users\asus\Desktop\bizim proje (yurt otomasyonu)\orta_hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.FormPersBilgileri.resources
+C:\Users\asus\Desktop\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.exe
+C:\Users\asus\Desktop\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.pdb
+C:\Users\asus\Desktop\Son Hali\projedeneme1\projedeneme1\bin\Debug\projedeneme1.exe
+C:\Users\asus\Desktop\Son Hali\projedeneme1\projedeneme1\bin\Debug\projedeneme1.pdb
+C:\Users\asus\Desktop\Son Hali\projedeneme1\projedeneme1\bin\Debug\WebCam_Capture.pdb
+C:\Users\asus\Desktop\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\asus\Desktop\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.Form1.resources
+C:\Users\asus\Desktop\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.Form2.resources
+C:\Users\asus\Desktop\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.Form3.resources
+C:\Users\asus\Desktop\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.Form4.resources
+C:\Users\asus\Desktop\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.FormFotoCek.resources
+C:\Users\asus\Desktop\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.FormOgrBilgileri.resources
+C:\Users\asus\Desktop\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.FormOgrenciAra.resources
+C:\Users\asus\Desktop\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.FormOgrenciKayit.resources
+C:\Users\asus\Desktop\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.FormPersBilgileri.resources
+C:\Users\asus\Desktop\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.FormPersonelKayit.resources
+C:\Users\asus\Desktop\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.FormPersonelListele.resources
+C:\Users\asus\Desktop\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.FormPersonelSifreDegisim.resources
+C:\Users\asus\Desktop\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.FormYataklar.resources
+C:\Users\asus\Desktop\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.FormYonetimSifreDegisim.resources
+C:\Users\asus\Desktop\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.Properties.Resources.resources
+C:\Users\asus\Desktop\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\asus\Desktop\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\asus\Desktop\Projelerim\Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.exe
+C:\Users\asus\Desktop\Projelerim\Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.pdb
+C:\Users\asus\Desktop\Projelerim\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.exe
+C:\Users\asus\Desktop\Projelerim\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.pdb
+C:\Users\asus\Desktop\Projelerim\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\bin\Debug\projedeneme1.exe
+C:\Users\asus\Desktop\Projelerim\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\bin\Debug\projedeneme1.pdb
+C:\Users\asus\Desktop\Projelerim\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\asus\Desktop\Projelerim\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\bin\Debug\WebCam_Capture.dll
+C:\Users\asus\Desktop\Projelerim\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\bin\Debug\WebCam_Capture.pdb
+C:\Users\asus\Desktop\Projelerim\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\asus\Desktop\Projelerim\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.Form1.resources
+C:\Users\asus\Desktop\Projelerim\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.Form2.resources
+C:\Users\asus\Desktop\Projelerim\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.Form3.resources
+C:\Users\asus\Desktop\Projelerim\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.Form4.resources
+C:\Users\asus\Desktop\Projelerim\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.FormFotoCek.resources
+C:\Users\asus\Desktop\Projelerim\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.FormOgrBilgileri.resources
+C:\Users\asus\Desktop\Projelerim\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.FormOgrenciAra.resources
+C:\Users\asus\Desktop\Projelerim\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.FormOgrenciKayit.resources
+C:\Users\asus\Desktop\Projelerim\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.FormPersBilgileri.resources
+C:\Users\asus\Desktop\Projelerim\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.FormPersonelKayit.resources
+C:\Users\asus\Desktop\Projelerim\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.FormPersonelListele.resources
+C:\Users\asus\Desktop\Projelerim\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.FormPersonelSifreDegisim.resources
+C:\Users\asus\Desktop\Projelerim\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.FormYataklar.resources
+C:\Users\asus\Desktop\Projelerim\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.FormYonetimSifreDegisim.resources
+C:\Users\asus\Desktop\Projelerim\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.Properties.Resources.resources
+C:\Users\asus\Desktop\Projelerim\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\asus\Desktop\Projelerim\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\asus\Desktop\2013 masaüstü\Projelerim\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.exe
+C:\Users\asus\Desktop\2013 masaüstü\Projelerim\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.pdb
+E:\Projelerim\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.exe
+E:\Projelerim\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.pdb
+E:\Projelerim\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\bin\Debug\projedeneme1.exe
+E:\Projelerim\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\bin\Debug\projedeneme1.pdb
+E:\Projelerim\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\bin\Debug\WebCam_Capture.pdb
+E:\Projelerim\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.csprojResolveAssemblyReference.cache
+E:\Projelerim\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.Form1.resources
+E:\Projelerim\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.Form2.resources
+E:\Projelerim\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.Form3.resources
+E:\Projelerim\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.Form4.resources
+E:\Projelerim\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.FormFotoCek.resources
+E:\Projelerim\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.FormOgrBilgileri.resources
+E:\Projelerim\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.FormOgrenciAra.resources
+E:\Projelerim\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.FormOgrenciKayit.resources
+E:\Projelerim\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.FormPersBilgileri.resources
+E:\Projelerim\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.FormPersonelKayit.resources
+E:\Projelerim\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.FormPersonelListele.resources
+E:\Projelerim\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.FormPersonelSifreDegisim.resources
+E:\Projelerim\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.FormYataklar.resources
+E:\Projelerim\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.FormYonetimSifreDegisim.resources
+E:\Projelerim\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.Properties.Resources.resources
+E:\Projelerim\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.csproj.GenerateResource.Cache
+C:\Users\muham\Desktop\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\bin\Debug\projedeneme1.exe
+C:\Users\muham\Desktop\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\bin\Debug\projedeneme1.pdb
+C:\Users\muham\Desktop\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\bin\Debug\WebCam_Capture.pdb
+C:\Users\muham\Desktop\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.csprojAssemblyReference.cache
+C:\Users\muham\Desktop\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.Form1.resources
+C:\Users\muham\Desktop\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.Form2.resources
+C:\Users\muham\Desktop\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.Form3.resources
+C:\Users\muham\Desktop\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.Form4.resources
+C:\Users\muham\Desktop\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.FormFotoCek.resources
+C:\Users\muham\Desktop\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.FormOgrBilgileri.resources
+C:\Users\muham\Desktop\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.FormOgrenciAra.resources
+C:\Users\muham\Desktop\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.FormOgrenciKayit.resources
+C:\Users\muham\Desktop\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.FormPersBilgileri.resources
+C:\Users\muham\Desktop\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.FormPersonelKayit.resources
+C:\Users\muham\Desktop\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.FormPersonelListele.resources
+C:\Users\muham\Desktop\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.FormPersonelSifreDegisim.resources
+C:\Users\muham\Desktop\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.FormYataklar.resources
+C:\Users\muham\Desktop\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.FormYonetimSifreDegisim.resources
+C:\Users\muham\Desktop\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.Properties.Resources.resources
+C:\Users\muham\Desktop\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.csproj.GenerateResource.cache
+C:\Users\muham\Desktop\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.csproj.CoreCompileInputs.cache
+C:\Users\muham\Desktop\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.csproj.CopyComplete
+C:\Users\muham\Desktop\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.exe
+C:\Users\muham\Desktop\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.pdb
+C:\Users\muham\Desktop\Eski Masaüstleri\2021 Mart\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\bin\Debug\projedeneme1.exe
+C:\Users\muham\Desktop\Eski Masaüstleri\2021 Mart\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\bin\Debug\projedeneme1.pdb
+C:\Users\muham\Desktop\Eski Masaüstleri\2021 Mart\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\bin\Debug\WebCam_Capture.pdb
+C:\Users\muham\Desktop\Eski Masaüstleri\2021 Mart\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.csprojAssemblyReference.cache
+C:\Users\muham\Desktop\Eski Masaüstleri\2021 Mart\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.Form1.resources
+C:\Users\muham\Desktop\Eski Masaüstleri\2021 Mart\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.Form2.resources
+C:\Users\muham\Desktop\Eski Masaüstleri\2021 Mart\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.Form3.resources
+C:\Users\muham\Desktop\Eski Masaüstleri\2021 Mart\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.Form4.resources
+C:\Users\muham\Desktop\Eski Masaüstleri\2021 Mart\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.FormFotoCek.resources
+C:\Users\muham\Desktop\Eski Masaüstleri\2021 Mart\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.FormOgrBilgileri.resources
+C:\Users\muham\Desktop\Eski Masaüstleri\2021 Mart\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.FormOgrenciAra.resources
+C:\Users\muham\Desktop\Eski Masaüstleri\2021 Mart\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.FormOgrenciKayit.resources
+C:\Users\muham\Desktop\Eski Masaüstleri\2021 Mart\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.FormPersBilgileri.resources
+C:\Users\muham\Desktop\Eski Masaüstleri\2021 Mart\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.FormPersonelKayit.resources
+C:\Users\muham\Desktop\Eski Masaüstleri\2021 Mart\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.FormPersonelListele.resources
+C:\Users\muham\Desktop\Eski Masaüstleri\2021 Mart\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.FormPersonelSifreDegisim.resources
+C:\Users\muham\Desktop\Eski Masaüstleri\2021 Mart\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.FormYataklar.resources
+C:\Users\muham\Desktop\Eski Masaüstleri\2021 Mart\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.FormYonetimSifreDegisim.resources
+C:\Users\muham\Desktop\Eski Masaüstleri\2021 Mart\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.Properties.Resources.resources
+C:\Users\muham\Desktop\Eski Masaüstleri\2021 Mart\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.csproj.GenerateResource.cache
+C:\Users\muham\Desktop\Eski Masaüstleri\2021 Mart\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.csproj.CoreCompileInputs.cache
+C:\Users\muham\Desktop\Eski Masaüstleri\2021 Mart\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.csproj.CopyComplete
+C:\Users\muham\Desktop\Eski Masaüstleri\2021 Mart\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.exe
+C:\Users\muham\Desktop\Eski Masaüstleri\2021 Mart\I. Yurt Otomasyonu Projesi\PROJEMİZ-YURT OTOMASYONU (SON HALİ)\Son Hali\projedeneme1\projedeneme1\obj\x86\Debug\projedeneme1.pdb

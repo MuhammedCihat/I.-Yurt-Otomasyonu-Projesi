@@ -1,0 +1,4 @@
+-Uygulama müzik ile başlıyor!
+-İlk etapta yönetici girişiyle girmelisiniz.
+	-Kullanıcı adınız: a
+	-Şifreniz: 	   1
